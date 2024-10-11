@@ -17,11 +17,11 @@ I'm I Kadek Bintang Adi Bimantara, an Information Technology student at Udayana 
 ## 💡 Motto
 "Orang yang tidak berusaha tidak akan berhasil."
 
-Tech Stack:
+### Hi there 👋
 
-
-- 💻 Languages: ![C](https://img.shields.io/badge/-C-blue) ![Python](https://img.shields.io/badge/-Python-yellow)
-- ⚙️ Tools: ![GCC](https://img.shields.io/badge/-GCC-orange) ![Clang](https://img.shields.io/badge/-Clang-red)
+#### Tech Stack:
+- 💻 Languages: ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-green?logo=javascript&logoColor=white)
+- ⚙️ Tools: ![GCC](https://img.shields.io/badge/GCC-orange?logo=gnu&logoColor=white) ![Clang](https://img.shields.io/badge/Clang-red?logo=clang&logoColor=white)
 
 
 Feel free to check out my repositories as I progress on my learning journey!
