@@ -20,10 +20,7 @@ I'm I Kadek Bintang Adi Bimantara, an Information Technology student at Udayana 
 ### Hi there 👋
 
 #### Tech Stack:
-- 💻 Languages: ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-green?logo=javascript&logoColor=white)
-- ⚙️ Tools: ![GCC](https://img.shields.io/badge/GCC-orange?logo=gnu&logoColor=white) ![Clang](https://img.shields.io/badge/Clang-red?logo=clang&logoColor=white)
-
-
+- 💻 Languages: ![C]([https://img.shields.io/badge/C-blue?logo=c&logoColor=white](https://sl.bing.net/jML0IqUYV3I)) ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white) ![JavaScript]
 Feel free to check out my repositories as I progress on my learning journey!
 
 
