@@ -19,10 +19,10 @@ I'm I Kadek Bintang Adi Bimantara, an Information Technology student at Udayana 
 
 ### Hi there 👋
 
-#### Tech Stack:
-- 💻 Languages: ![C]([https://img.shields.io/badge/C-blue?logo=c&logoColor=white](https://sl.bing.net/jML0IqUYV3I)) ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white) ![JavaScript]
-Feel free to check out my repositories as I progress on my learning journey!
-
+ ![C Logo](
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+          )
 
 <!--
 **dekbintang/dekbintang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
