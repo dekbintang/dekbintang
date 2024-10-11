@@ -16,11 +16,12 @@ I'm I Kadek Bintang Adi Bimantara, an Information Technology student at Udayana 
 
 ## 💡 Motto
 "Orang yang tidak berusaha tidak akan berhasil."
-### Hi there 👋
 
 ### Hi there 👋
 #### Tech Stack:
-- ![C Logo](https://example.com/path-to-your-c-logo.png)
+- ![C Logo](https://github.com/username/repository-name/raw/main/assets/c-logo.png)
+
+
 
 
 
