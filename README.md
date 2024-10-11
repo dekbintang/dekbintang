@@ -19,9 +19,11 @@ I'm I Kadek Bintang Adi Bimantara, an Information Technology student at Udayana 
 
 ### Hi there 👋
 
- ![C Logo](
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+ ### Hi there 👋
+
+#### Tech Stack:
+- ![C Logo](https://your-url-to-c-logo.com/c-logo.png) 
+
           )
 
 <!--
