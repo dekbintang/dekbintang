@@ -18,7 +18,7 @@ I'm I Kadek Bintang Adi Bimantara, an Information Technology student at Udayana 
 "Orang yang tidak berusaha tidak akan berhasil."
 
 Tech Stack:
-https://img.shields.io/badge/!%5BC%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2F-C-blue)
+
 
 - 💻 Languages: ![C](https://img.shields.io/badge/-C-blue) ![Python](https://img.shields.io/badge/-Python-yellow)
 - ⚙️ Tools: ![GCC](https://img.shields.io/badge/-GCC-orange) ![Clang](https://img.shields.io/badge/-Clang-red)
