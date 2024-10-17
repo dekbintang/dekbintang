@@ -19,7 +19,9 @@ I'm I Kadek Bintang Adi Bimantara, an Information Technology student at Udayana 
 
 ### Hi there 👋
 #### Tech Stack:
-- ![C Logo](https://github.com/username/repository-name/raw/main/assets/c-logo.png)
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=c,java&perline=5" alt="Tech Stack">
+</p>
 
 
 
